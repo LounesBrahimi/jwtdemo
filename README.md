@@ -11,9 +11,13 @@ L'objectif est de montrer comment utiliser **les JWT de manière sécurisée**, 
 
 ## 🚀 Fonctionnalités
 ✅ Génération d’un **JWT signé** avec `RS256`
+
 ✅ Vérification d’un JWT signé
+
 ✅ **Chiffrement d’un JWT** avec `RSA-OAEP + AES-GCM`
+
 ✅ **Déchiffrement d’un JWT**
+
 ✅ API REST accessible via **Swagger** (`http://localhost:8080/swagger-ui.html`)
 
 ---
