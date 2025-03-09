@@ -93,7 +93,7 @@ curl -X POST "http://localhost:8080/jwt/decrypt?token=<VOTRE_JWT_CHIFFRE>"
 
 ---
 
-# 📖 Théorie : Comprendre JWT, Signature et Chiffrement
+# 📖 Comprendre JWT, Signature et Chiffrement
 
 ## **1️⃣ Qu’est-ce qu’un JWT ?**
 Un **JSON Web Token (JWT)** est un standard ouvert permettant l’échange sécurisé d’informations entre deux parties sous forme de **chaîne encodée en JSON**.
