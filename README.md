@@ -1,4 +1,4 @@
-# Projet : API Spring Boot - Signature & Chiffrement JWT
+# API Spring Boot - Signature & Chiffrement JWT
 
 ## 📌 Introduction
 Ce projet est une **API REST Spring Boot** qui démontre **deux aspects clés des JWT** :
